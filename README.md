@@ -35,7 +35,7 @@ The debug menu adds:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/afk-tracker.git
+   git clone https://github.com/izadoesdev/afk-tracker.git
    cd afk-tracker
    ```
 
